@@ -3,4 +3,4 @@ Repo containing the submitted patch files of the various tasks assigned by JPMor
 ## My Certificate
 ![](Certificate.png)
 ## For any queries/doubts:
-[prakharindoria@gmail](prakharindoria@gmail.com)
+[prakharindoria@gmail.com](prakharindoria@gmail.com)
